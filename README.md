@@ -1,10 +1,13 @@
-
-
+<h1 align="center">
+  Gatsby, Netlify, Snipcart learn project
 <p align="center">
   <a href="https://gatsby-coffee-shop-project.netlify.com/#!/">
     LIVE DEMO
   </a>
 </p>
+</h1>
+<br />
+<br />
 <p align="center">
   <a href="https://www.gatsbyjs.org">
     <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />

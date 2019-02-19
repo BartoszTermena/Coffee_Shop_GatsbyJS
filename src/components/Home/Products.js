@@ -30,7 +30,7 @@ const Products = () => {
         return (
             <section className="py-5">
                 <div className="container">
-                    <Title title="Products" />
+                    <Title title="Our Products" />
                     <div className="row">
                         {data.products.edges.map(({node:product}) => {
                             return (

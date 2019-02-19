@@ -1,4 +1,10 @@
-<!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
+
+
+<p align="center">
+  <a href="https://gatsby-coffee-shop-project.netlify.com/#!/">
+    LIVE DEMO
+  </a>
+</p>
 <p align="center">
   <a href="https://www.gatsbyjs.org">
     <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
